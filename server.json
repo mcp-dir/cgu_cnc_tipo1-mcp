@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/cgu_cnc_tipo1-mcp",
+  "title": "Controladoria-Geral da União: Certidão Negativa Correcional - Entes Privados (ePAD, CGU-PJ, CEIS, CNEP e CEPIM)",
+  "description": "Controladoria-Geral da União: Certificate Negativa Correcional - Entes Privados (ePAD, CGU-PJ, CEIS,",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/cgu_cnc_tipo1-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_cgu_cnc_tipo1"
+    }
+  ]
+}

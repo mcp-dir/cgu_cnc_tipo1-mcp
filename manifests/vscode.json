@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_cgu_cnc_tipo1.",
+  "servers": {
+    "cgu_cnc_tipo1": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_cgu_cnc_tipo1"
+    }
+  }
+}
